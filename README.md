@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo test for Coursera's Data Science project
+Repo for Coursera's Data Science project
